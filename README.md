@@ -14,6 +14,25 @@ This repository contains the front-end project developed as part of the Flyrank 
 - Node.js
 - npm
 
+## Project Structure
+
+This project follows the standard Vite + React layout:
+
+```
+├── public/              # Static assets (images, favicons, etc.)
+├── src/
+│   ├── assets/          # Images, fonts, and other imported assets
+│   ├── components/      # Reusable React components
+│   ├── App.jsx          # Root application component
+│   ├── App.css          # Root component styles
+│   └── main.jsx         # Application entry point
+├── index.html           # HTML entry point for Vite
+├── package.json         # Dependencies and npm scripts
+├── vite.config.js       # Vite configuration
+├── README.md            # Project documentation
+└── LICENSE              # License information
+```
+
 ## Prerequisites
 
 - [Node.js](https://nodejs.org/) (v18 or later recommended)
