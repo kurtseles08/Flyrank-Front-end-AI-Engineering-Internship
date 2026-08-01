@@ -1,0 +1,38 @@
+# Flyrank Front-End AI Engineering Internship Rules
+
+## Project Stack
+
+- React
+- JavaScript
+- Vite
+- HTML5
+- CSS3
+- Node.js
+- npm
+
+## Code Conventions
+
+- Use functional React components.
+- Use PascalCase for component names.
+- Use descriptive names for variables and functions.
+- Keep components small and reusable.
+- Avoid duplicating existing components.
+- Remove unused imports and variables.
+- Follow the existing project structure.
+
+## Styling
+
+- Follow the existing styling approach.
+- Maintain responsive layouts.
+- Reuse existing colors, spacing, and typography.
+- Do not introduce a new CSS framework unless requested.
+
+## AI Instructions
+
+- Read relevant files before making changes.
+- Do not modify unrelated files.
+- Do not remove existing functionality without permission.
+- Explain important changes.
+- Do not add packages unless they are necessary.
+- Do not expose API keys or secrets.
+- Check for errors after making changes.
